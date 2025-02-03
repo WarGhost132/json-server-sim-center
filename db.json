@@ -9,6 +9,120 @@
       "name": "Petya"
     }
   ],
+  "groups": [
+    {
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "name": "101-23УД",
+      "studentsCount": 32,
+      "faculty": "Лечебное дело",
+      "specialization": "Ультразвуковая диагностика"
+    },
+    {
+      "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "name": "102-23ИТ",
+      "studentsCount": 28,
+      "faculty": "Лечебное дело",
+      "specialization": "Интенсивная терапия"
+    },
+    {
+      "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "name": "103-23АГ",
+      "studentsCount": 45,
+      "faculty": "Лечебное дело",
+      "specialization": "Акушерство и гинекология"
+    },
+    {
+      "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g",
+      "name": "104-23КД",
+      "studentsCount": 22,
+      "faculty": "Лечебное дело",
+      "specialization": "Кардиология"
+    },
+    {
+      "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8g9h",
+      "name": "105-23РН",
+      "studentsCount": 38,
+      "faculty": "Педиатрия",
+      "specialization": "Реанимация новорожденных"
+    },
+    {
+      "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8g9h0i",
+      "name": "106-23УД",
+      "studentsCount": 50,
+      "faculty": "Лечебное дело",
+      "specialization": "Ультразвуковая диагностика"
+    },
+    {
+      "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8g9h0i1j",
+      "name": "107-23ИТ",
+      "studentsCount": 25,
+      "faculty": "Лечебное дело",
+      "specialization": "Интенсивная терапия"
+    },
+    {
+      "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8g9h0i1j2k",
+      "name": "108-23АГ",
+      "studentsCount": 40,
+      "faculty": "Лечебное дело",
+      "specialization": "Акушерство и гинекология"
+    },
+    {
+      "id": "c9d0e1f2-a3b4-4c5d-6e7f-8g9h0i1j2k3l",
+      "name": "109-23КД",
+      "studentsCount": 33,
+      "faculty": "Лечебное дело",
+      "specialization": "Кардиология"
+    },
+    {
+      "id": "d0e1f2a3-b4c5-4d6e-7f8g-9h0i1j2k3l4m",
+      "name": "110-23РН",
+      "studentsCount": 29,
+      "faculty": "Педиатрия",
+      "specialization": "Реанимация новорожденных"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "a0d6192f-0318-485b-a314-0cec73115439",
+      "name": "Комната 1"
+    },
+    {
+      "id": "46122397-5df0-4e27-8e5a-a0fa111befcc",
+      "name": "Комната 2"
+    },
+    {
+      "id": "dd9747a4-dc49-45bc-b44d-9834497488ae",
+      "name": "Комната 3"
+    },
+    {
+      "id": "8cf66b6c-c0d0-4ad6-aec4-4c39ca2ca3c1",
+      "name": "Комната 4"
+    },
+    {
+      "id": "b34d64de-893c-4624-9636-4f0835ad02dc",
+      "name": "Комната 5"
+    },
+    {
+      "id": "f6cef53f-346a-492b-8b78-218d3c0c94c5",
+      "name": "Комната 6"
+    },
+    {
+      "id": "f70b2484-5a7c-4183-b14a-ce4ab631a0e5",
+      "name": "Комната 7"
+    },
+    {
+      "id": "ff2c8397-9006-4aec-9b59-0857b1f6f965",
+      "name": "Комната 8"
+    },
+    {
+      "id": "1bb43972-e353-4b45-8771-bdb67772b012",
+      "name": "Комната 9"
+    },
+    {
+      "id": "96219e1f-3af5-45cd-9d1b-8b0ae5e234e3",
+      "name": "Комната 10"
+    }
+  ],
   "sessions": [
     {
       "id": "cfd69b96-7f58-48af-8c7c-605bddae7f64",
